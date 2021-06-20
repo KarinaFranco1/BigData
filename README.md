@@ -26,4 +26,10 @@ import datetime
 import string
 import nltk
 ```
+## Despligue
+* Abrir Google colab
+* Levantar el archivo ABC.ipynb desde el UPLOAD
+* Ejecutar el archivo
 
+## Autora
+Karina Franco
