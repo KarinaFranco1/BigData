@@ -1,11 +1,11 @@
 # Trabajo de Big Data
 Para la Primera parte del trabajo se realizo el recabado de datos con el siguiente hashtag de #disculpateABCCOLOR en Twitter teniendo en cuenta los siguientes datos 
-* Texto del tweet
-* Autor
-* Timestamp
-* Número de Favs
-* Número de RTs
-para porteriormente guardar los tweets en un archivo .csv para el análisis.
+* Texto del tweet.
+* Autor.
+* Timestamp.
+* Número de Favs.
+* Número de RTs.
+Para porteriormente guardar los tweets en un archivo .csv para el análisis.
 En la segunda parte del trabajo se basa en el analisis de sentimiento de procesamiento del lenguaje natural donde el análisis de sentimientos se realiza clasificando los tweets positivos de los tweets negativos mediante modelos de aprendizaje automático para clasificación, minería de texto, análisis de texto, análisis de datos y visualización de datos.
 
 ## Obtención de datos 
