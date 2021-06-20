@@ -13,14 +13,14 @@ Para la elaboración de este trabajo las herramientas utilizadas fueron:
 Python
 
 ## Resumen
-Extracción de tuits (API Twitter)
-Descarga de datos
-Inspección inicial de los datos
-Preprocesamiento de datos
-Unión de bases de datos
-Análisis de sentimiento 
-Limpieza de datos
-Graficos
+* Extracción de tuits (API Twitter)
+* Descarga de datos
+* Inspección inicial de los datos
+* Preprocesamiento de datos
+* Unión de bases de datos
+* Análisis de sentimiento 
+* Limpieza de datos
+* Graficos
 
 ## Librerias Utilidas
 ```
